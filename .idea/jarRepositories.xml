@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aia" />
+      <option name="name" value="aia" />
+      <option name="url" value="https://arm101-eiffel004.lmera.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonom" />
+      <option name="name" value="sonom-artifactory" />
+      <option name="url" value="http://ieatrcxb3788.athtem.eei.ericsson.se:8081/artifactory/sonom-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="EC_SON_Central" />
+      <option name="name" value="EC_SON_Central" />
+      <option name="url" value="https://arm1s11-eiffel112.eiffel.gic.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="prototype" />
+      <option name="name" value="prototype" />
+      <option name="url" value="http://eselivm2v238l.lmera.ericsson.se:8081/nexus/content/repositories/prototype" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://arm101-eiffel004.lmera.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eSON_Central" />
+      <option name="name" value="eSON_Central" />
+      <option name="url" value="https://arm1s11-eiffel112.eiffel.gic.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-proxy-fallback" />
+      <option name="name" value="central-proxy-fallback" />
+      <option name="url" value="http://eselivm2v214l.lmera.ericsson.se:8081/nexus/content/groups/ericsson" />
+    </remote-repository>
+  </component>
+</project>
